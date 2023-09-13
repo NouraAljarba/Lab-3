@@ -22,3 +22,11 @@ E.g. <br>
 <br>
 *Input* `["Dart", "Java", "Dart"]`
 *Return* `false`
+
+
+## code 
+![code](https://github.com/NouraAljarba/Lab-3/assets/108701880/e5022e88-20d0-4842-9c4f-bb8f4613ba20)
+
+
+## output
+![output](https://github.com/NouraAljarba/Lab-3/assets/108701880/75337c03-d05c-4bde-93bb-2af1adf44956)
